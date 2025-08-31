@@ -28,11 +28,6 @@ By leveraging natural language processing techniques, the project analyzes vario
 
 
 
-For the **Demo** section in your Job Classifier README, you want to show **how users can interact with your notebooks or model**, just like your Tweet Sentiment AI example. Since you have multiple stages (initial cleaning, data optimization, modeling, final), you can organize it clearly:
-
-Here’s a polished example:
-
-
 ## Demo
 
 * **Exploration & Preprocessing**
